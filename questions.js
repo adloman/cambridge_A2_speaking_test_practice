@@ -2,7 +2,7 @@ const questionBank = [
     { 
         q: "1. What is your favorite color?", 
         options: [
-            { text: "My favorite color is blue because it is the color of the sea. What about you?", score: 100, feedback: "Excellent detail and interaction!" },
+            { text: "My favorite color is blue because it is the color of the sea. ", score: 100, feedback: "Excellent detail and interaction!" },
             { text: "I like blue more better than red because is very nice.", score: 0, feedback: "TRAP! 'More better' and 'because is' (missing subject) are errors." },
             { text: "I like green because it is the color of nature.", score: 75, feedback: "Good, but try to ask a question back." },
             { text: "I like red.", score: 50, feedback: "Correct but very short." }
